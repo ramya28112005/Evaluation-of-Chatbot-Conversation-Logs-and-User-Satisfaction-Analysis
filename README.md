@@ -138,6 +138,4 @@ B.Sc. Computer Science
 
 Data Analyst | Python | SQL | Power BI | Excel
 
-GitHub: https://github.com/YourGitHubUsername
 
-LinkedIn: https://linkedin.com/in/YourLinkedIn
